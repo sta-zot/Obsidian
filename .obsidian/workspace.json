@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8ae278f0489113fc",
+        "id": "e27694ed62d46105",
         "type": "tabs",
         "children": [
           {
-            "id": "1157f6e96364e08f",
+            "id": "074cea5e1c0a8983",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -186,15 +186,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1157f6e96364e08f",
+  "active": "074cea5e1c0a8983",
   "lastOpenFiles": [
-    "LinuxAdministraton/systemd/Systemd.md",
+    "Модуль 1. Namespaces (Границы видимости процессов).md",
     "LinuxAdministraton/Linux (Kernel & Internals).md",
+    "LinuxAdministraton/Путевой лист для перехода в DevOps, SRE.md",
+    "LinuxAdministraton/Namespaces&cgroups/Модуль Модуль 2. cgroups v2 (Ограничение и учет ресурсов).md",
+    "LinuxAdministraton/Namespaces&cgroups/Модуль 1. Namespaces.md",
+    "LinuxAdministraton/Namespaces&cgroups/Модуль.md",
+    "LinuxAdministraton/Namespaces&cgroups/Модуль 2. cgroups v2 (Ограничение и учет ресурсов).md",
+    "LinuxAdministraton/Namespaces&cgroups/Модуль-2.-cgroups-v2-(Ограничение-и-учет-ресурсов).md",
+    "LinuxAdministraton/systemd/Systemd.md",
     "LinuxAdministraton/systemd/SandBox.md",
     "Без названия 1.base",
     "Без названия.base",
     "LinuxAdministraton/systemd/systemd 1.md",
-    "LinuxAdministraton/Путевой лист для перехода в DevOps, SRE.md",
     "LinuxAdministraton/systemd/Summary.md",
     "Таймеры-(Timer-Units).md",
     "LinuxAdministraton/systemd/Targets.md",
@@ -203,15 +209,12 @@
     "LinuxAdministraton/systemd/Debuging.md",
     "LinuxAdministraton/systemd/Slices.md",
     "LinuxAdministraton/systemd/Timers.md",
-    "LinuxAdministraton/Namespaces&cgroups/Модуль 1. Namespaces.md",
-    "LinuxAdministraton/Namespaces&cgroups/Модуль 2. cgroups v2 (Ограничение и учет ресурсов).md",
     "LinuxAdministraton/Namespaces&cgroups",
     "LinuxAdministraton/systemd",
     "Go и Go стек.md",
     "LinuxAdministraton",
     "GO",
     "Без названия.canvas",
-    "Модуль 1. Namespaces (Границы видимости процессов).md",
     "Добро пожаловать.md",
     "Mermaid diagram.md",
     "Без названия 1"
