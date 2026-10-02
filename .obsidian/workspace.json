@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e27694ed62d46105",
+        "id": "7bfe1c34ddb0d7d6",
         "type": "tabs",
         "children": [
           {
-            "id": "074cea5e1c0a8983",
+            "id": "b52015f994f7e6db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "LinuxAdministraton/Linux (Kernel & Internals).md",
-                "mode": "source",
-                "source": false
+                "file": "Без названия 1.base",
+                "viewName": "Таблица"
               },
-              "icon": "lucide-file",
-              "title": "Linux (Kernel & Internals)"
+              "icon": "lucide-table",
+              "title": "Без названия 1"
             }
           }
         ]
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinuxAdministraton/Linux (Kernel & Internals).md",
+                "file": "LinuxAdministraton/Namespaces&cgroups/Модуль 1. Namespaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinuxAdministraton/Linux (Kernel & Internals).md",
+                "file": "Без названия 1.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinuxAdministraton/Linux (Kernel & Internals).md",
+                "file": "LinuxAdministraton/Namespaces&cgroups/Модуль 1. Namespaces.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -182,24 +181,27 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "github-sync:Sync with Remote": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "074cea5e1c0a8983",
+  "active": "b52015f994f7e6db",
   "lastOpenFiles": [
-    "Модуль 1. Namespaces (Границы видимости процессов).md",
     "LinuxAdministraton/Linux (Kernel & Internals).md",
+    "Без названия.base",
+    "Без названия 1.base",
+    "LinuxAdministraton/IPC/Inter-Process Communication.md",
+    "LinuxAdministraton/IPC/Inter-Process-Communication.md",
+    "LinuxAdministraton/IPC/Inter-Process.md",
+    "LinuxAdministraton/IPC",
     "LinuxAdministraton/Путевой лист для перехода в DevOps, SRE.md",
-    "LinuxAdministraton/Namespaces&cgroups/Модуль Модуль 2. cgroups v2 (Ограничение и учет ресурсов).md",
     "LinuxAdministraton/Namespaces&cgroups/Модуль 1. Namespaces.md",
+    "Модуль 1. Namespaces (Границы видимости процессов).md",
+    "LinuxAdministraton/Namespaces&cgroups/Модуль Модуль 2. cgroups v2 (Ограничение и учет ресурсов).md",
     "LinuxAdministraton/Namespaces&cgroups/Модуль.md",
     "LinuxAdministraton/Namespaces&cgroups/Модуль 2. cgroups v2 (Ограничение и учет ресурсов).md",
     "LinuxAdministraton/Namespaces&cgroups/Модуль-2.-cgroups-v2-(Ограничение-и-учет-ресурсов).md",
     "LinuxAdministraton/systemd/Systemd.md",
     "LinuxAdministraton/systemd/SandBox.md",
-    "Без названия 1.base",
-    "Без названия.base",
     "LinuxAdministraton/systemd/systemd 1.md",
     "LinuxAdministraton/systemd/Summary.md",
     "Таймеры-(Timer-Units).md",

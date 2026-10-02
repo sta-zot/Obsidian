@@ -56,7 +56,7 @@
     3. **Systemd Timers:** Заменить cron-задачу на связку `.service` + `.timer`. Выполнить точечное планирование с использованием временных окон (`RandomizedDelaySec=`) и отслеживанием пропущенных запусков (`Persistent=true`).
     4. **Slices:** Изучить вывод `systemd-cgls` и `systemd-cgtop`. Создать кастомный `custom.slice`, ограничить его по CPU/RAM и вложить в него два разных сервиса через `Slice=custom.slice`.
 
-### Модуль 5. IPC (Inter-Process Communication)
+### [Модуль 5. IPC (Inter-Process Communication)](LinuxAdministraton/IPC/Inter-Process%20Communication)
 
 **Цель:** Понимать механизмы, с помощью которых процессы обмениваются данными и синхронизируются внутри ОС.
 
